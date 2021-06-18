@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohitsharma1996
-- 👀 I’m interested in AI, Deep learning, computer vision and optimization.
+- 👀 I’m interested in AI, deep learning, computer vision and optimization.
 - 🌱 I’m currently learning and updating myself on the latest and best in deep learning and AI.
 - 💞️ I’m looking to collaborate on interesting and novel projects using deep learning for computer vision.
 - 📫 How to reach me - Feel free to reach me out on mohit21sharma.ms@gmail.com
